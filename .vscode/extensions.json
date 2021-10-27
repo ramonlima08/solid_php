@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "junstyle.php-cs-fixer",
+        "phproberto.vscode-php-getters-setters"
+    ]
+}
