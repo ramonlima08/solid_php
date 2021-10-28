@@ -1,5 +1,6 @@
 # Conceitos SOLID em PHP
-Neste GIT temos N projetos utilizados para praticar todos os conceitos do princípio SOLID
+Neste GIT temos alguns projetos utilizados para praticar todos os conceitos do princípio SOLID
+Boas práticas
 
 SRP -> Single Responsibility Principle (Princípio da Responsabilidade Única)
 OCP -> Open/Closed Principle (Princípio Aberto/Fechado)
@@ -7,17 +8,30 @@ LSP -> Liskov Substitution Principle (Princípio de Substituição de Liskov)
 ISP -> Interface Segregation Principle (Princípio da Segregação de Interface)
 DIP -> Dependency Inversion Principle (Princípio da Inversão de Dependência)
 
-## Single Responsibility Principle (Princípio da Responsabilidade Única)
+## 1 - Single Responsibility Principle (Princípio da Responsabilidade Única) (SRP)
 
 Projetos:
 - carrinhocompras
 - carrinhocomprasb
 
-## Open/Closed Principle (Princípio Aberto/Fechado)
+## 2 - Open/Closed Principle (Princípio Aberto/Fechado) (OCP)
 
-Projeto:
+Projetos:
 - app_etl
 - app_etl_b
+
+## 3 - Liskov Substitution Principle (Princípio de Substituição de Liskov) (LSP)
+
+Projetos:
+- app_poligonos
+- app_poligonos_b
+
+## 4 - Interface Segregation Principle (Princípio da Segregação de Interface) (ISP)
+
+
+
+## 5 - Dependency Inversion Principle (Princípio da Inversão de Dependência) (DIP)
+
 
 
 ## EXTRA - Testes com PHP Unit

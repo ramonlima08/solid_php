@@ -2,6 +2,8 @@
 /app_etl_b/vendor
 /carrinhocompras/vendor
 /carrinhocomprasb/vendor
+/app_poligonos/vendor
+/app_poligonos_b/vendor
 
 /node_modules
 /public/hot
