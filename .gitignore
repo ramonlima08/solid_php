@@ -4,6 +4,7 @@
 /carrinhocomprasb/vendor
 /app_poligonos/vendor
 /app_poligonos_b/vendor
+/app_crm/vendor
 
 /node_modules
 /public/hot
