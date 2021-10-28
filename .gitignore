@@ -5,6 +5,8 @@
 /app_poligonos/vendor
 /app_poligonos_b/vendor
 /app_crm/vendor
+/app_mensageiro/vendor
+/app_mensageiro_b/vendor
 
 /node_modules
 /public/hot
